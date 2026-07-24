@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Local price history / state
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
